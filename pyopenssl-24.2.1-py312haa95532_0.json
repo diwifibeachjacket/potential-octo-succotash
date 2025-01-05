@@ -1,0 +1,57 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cryptography >=41.0.5,<44",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyopenssl-24.2.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/OpenSSL/SSL.py",
+    "Lib/site-packages/OpenSSL/__init__.py",
+    "Lib/site-packages/OpenSSL/__pycache__/SSL.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/_util.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/crypto.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/debug.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/rand.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/OpenSSL/_util.py",
+    "Lib/site-packages/OpenSSL/crypto.py",
+    "Lib/site-packages/OpenSSL/debug.py",
+    "Lib/site-packages/OpenSSL/py.typed",
+    "Lib/site-packages/OpenSSL/rand.py",
+    "Lib/site-packages/OpenSSL/version.py",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/LICENSE",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/METADATA",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/RECORD",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/WHEEL",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/pyOpenSSL-24.2.1.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "pyopenssl-24.2.1-py312haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyopenssl-24.2.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "cab227e3e0205f956b7d13ebc3118af6",
+  "name": "pyopenssl",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyopenssl-24.2.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pyopenssl==24.2.1=py312haa95532_0[md5=cab227e3e0205f956b7d13ebc3118af6]",
+  "sha256": "e028a134703ddcad378babf8c36e8c5c0e311075a7f2afa9a29447748d129182",
+  "size": 123177,
+  "subdir": "win-64",
+  "timestamp": 1723651831000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyopenssl-24.2.1-py312haa95532_0.conda",
+  "version": "24.2.1"
+}
