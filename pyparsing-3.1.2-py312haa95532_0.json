@@ -1,0 +1,63 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyparsing-3.1.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/LICENSE",
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/METADATA",
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/RECORD",
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/REQUESTED",
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/WHEEL",
+    "Lib/site-packages/pyparsing-3.1.2.dist-info/direct_url.json",
+    "Lib/site-packages/pyparsing/__init__.py",
+    "Lib/site-packages/pyparsing/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/actions.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/common.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/helpers.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/results.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/testing.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/unicode.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/__pycache__/util.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/actions.py",
+    "Lib/site-packages/pyparsing/common.py",
+    "Lib/site-packages/pyparsing/core.py",
+    "Lib/site-packages/pyparsing/diagram/__init__.py",
+    "Lib/site-packages/pyparsing/diagram/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyparsing/exceptions.py",
+    "Lib/site-packages/pyparsing/helpers.py",
+    "Lib/site-packages/pyparsing/py.typed",
+    "Lib/site-packages/pyparsing/results.py",
+    "Lib/site-packages/pyparsing/testing.py",
+    "Lib/site-packages/pyparsing/unicode.py",
+    "Lib/site-packages/pyparsing/util.py",
+    ".nonadmin"
+  ],
+  "fn": "pyparsing-3.1.2-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyparsing-3.1.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "8478604ccb0e245ad9b4c64bdf5b3114",
+  "name": "pyparsing",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyparsing-3.1.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pyparsing==3.1.2=py312haa95532_0[md5=8478604ccb0e245ad9b4c64bdf5b3114]",
+  "sha256": "1444074b6b3f0671387c56a353d8e61ec51338474c3713bc26dc09e96684dcc2",
+  "size": 466852,
+  "subdir": "win-64",
+  "timestamp": 1725041820000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyparsing-3.1.2-py312haa95532_0.conda",
+  "version": "3.1.2"
+}
